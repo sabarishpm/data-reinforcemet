@@ -1,0 +1,5 @@
+name should not begin with special-characters must contain Alphabetic values minimum of eight
+password should contain Alphabetic and Numeric characters and special-characters with a minimum of eight characters
+number must be Numeric values only with length of ten
+mail Contains Alphabetic and Numeric characters and special-characters with an @ mail adress
+name should have ability to discard special-characters and contain Alphabetic values minimum of eight

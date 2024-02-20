@@ -1,0 +1,30 @@
+name
+keywords extraction of  name : ['Answer', 'The', '(exclude)', 'Answer', 'The', "!#$%&'()+, -./:;<=>?@^_`{|}~", 'The', '(include)', 'A-Za-z', 'Values', '(include) min length', 'The', '8']
+Regular Expresion Generated for  name : [A-Za-z]{8}
+name  generated using RE:  zjodogSq
+name valid
+ 
+password
+keywords extraction of  password : ['Answer', 'The', '(include)', 'A-Za-z', '(include)', '0-9', 'Answer', '(include)', "!#$%&'()+, -./:;<=>?@^_`{|}~", 'The', 'The', '(include) min length', 'The', '8', 'Answer']
+Regular Expresion Generated for  password : [A-Za-z0-9!#$%&'()+, -./:;<=>?@^_`{|}~]{8}
+password  generated using RE:  n"#SDh#)
+try another
+ 
+number
+keywords extraction of  number : ['The', 'The', '(include)', '0-9', 'Values', 'include', 'The', '(include) min length', 'The', '10']
+Regular Expresion Generated for  number : [0-9]{10}
+number  generated using RE:  1205894537
+number valid
+ 
+mail
+keywords extraction of  mail : ['Mail', '(include)', 'A-Za-z', '(include)', '0-9', 'Answer', '(include)', "!#$%&'()+, -./:;<=>?@^_`{|}~", 'The', 'An', '(include) mail adress', 'Mail', 'The']
+Regular Expresion Generated for  mail : [A-Za-z0-9!#$%&'()+, -./:;<=>?@^_`{|}~]@gmail\.com
+mail  generated using RE:  K@gmail.com
+mail valid
+ 
+name
+keywords extraction of  name : ['Answer', 'The', 'The', 'Answer', 'The', 'Discard', "!#$%&'()+, -./:;<=>?@^_`{|}~", '(include)', '(include)', 'A-Za-z', 'Values', '(include) min length', 'The', '8']
+Regular Expresion Generated for  name : [A-Za-zA-Za-z]{8}
+name  generated using RE:  UnUhzKfq
+name valid
+ 

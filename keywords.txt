@@ -1,0 +1,5 @@
+['Answer', 'The', '(exclude)', 'Answer', 'The', "!#$%&'()+, -./:;<=>?@^_`{|}~", 'The', '(include)', 'A-Za-z', 'Values', '(include) min length', 'The', '8']
+['Answer', 'The', '(include)', 'A-Za-z', '(include)', '0-9', 'Answer', '(include)', "!#$%&'()+, -./:;<=>?@^_`{|}~", 'The', 'The', '(include) min length', 'The', '8', 'Answer']
+['The', 'The', '(include)', '0-9', 'Values', 'include', 'The', '(include) min length', 'The', '10']
+['Mail', '(include)', 'A-Za-z', '(include)', '0-9', 'Answer', '(include)', "!#$%&'()+, -./:;<=>?@^_`{|}~", 'The', 'An', '(include) mail adress', 'Mail', 'The']
+['Answer', 'The', 'The', 'Answer', 'The', 'Discard', "!#$%&'()+, -./:;<=>?@^_`{|}~", '(include)', '(include)', 'A-Za-z', 'Values', '(include) min length', 'The', '8']

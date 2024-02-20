@@ -1,0 +1,4 @@
+openai
+os
+sklearn.metrics.pairwise
+numpy

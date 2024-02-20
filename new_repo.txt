@@ -1,0 +1,8 @@
+{
+    "discard" : "(exclude)",
+    "able to" : "ability",
+    "name" : "name",
+    "mail" : "Mail",
+    "password" : "Password",
+    "number" : "number"
+}
